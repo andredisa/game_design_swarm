@@ -90,7 +90,7 @@ streamlit run streamlit_app.py
 ---
 
 ## 🎯 Usage Instructions
-1.Fill in the basic game details via the sidebar inputs.
+1. Fill in the basic game details via the sidebar inputs.
 
 2. Hit **Start Game Design Swarm**.
 

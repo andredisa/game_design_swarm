@@ -69,7 +69,7 @@ Think of them as your personal **game design team**, each handling a different f
 1. **Clone the repository**:
 
 ```bash
-git clone https://github.com/your-username/game_design_swarm.git
+git clone https://github.com/andredisa/game_design_swarm.git
 cd game_design_swarm
 ```
 
